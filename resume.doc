@@ -1,0 +1,135 @@
+SRIDEVI RAVIPATI
+Singapore | +65-8223 8629 | schsridevi.ravipati@gmail.com
+LinkedIn: sridevi-ravipati-2409
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Site Reliability Engineer / DevOps / Platform Engineer with 12+ years of experience architecting, automating, and optimizing mission-critical deployments in AWS Cloud environments. Expert in Kubernetes, Terraform, Docker, and CI/CD pipelines. Proven track record of leading cross-functional teams, mentoring engineers, and delivering robust, scalable cloud-native solutions for telecom, banking, and healthcare domains. Recognized for driving cost reduction, operational excellence, and high availability through automation and infrastructure as code.
+
+CORE SKILLS
+
+Cloud Platforms: AWS (EC2, EKS, ECS, S3, Lambda, RDS, IAM, CloudWatch, CloudTrail, Glue, Secrets Manager, Step Functions, Lake Formation), PCF
+
+Containerization & Orchestration: Kubernetes, Docker, Helm, Karpenter
+
+Infrastructure as Code: Terraform, AWS CDK (Go, Python), Puppet
+
+CI/CD & Automation: Jenkins, Bamboo, GitHub Actions, Maven, Shell Scripting
+
+Programming Languages: Go, Python, Java (Core Java 11, Spring Boot), Shell
+
+Monitoring & Observability: Grafana, Trivy, Kyverno, APICA
+
+API Management: Kong, APIGEE, Mulesoft 4, TIBCO BW 5
+
+Databases: Oracle, MySQL, PostgreSQL, Cassandra, SQL Server
+
+Messaging & Integration: Kafka, IBM MQ, AMQ, EMS, SOAP, REST
+
+Testing & Tools: JMeter, SOAPUI, POSTMAN, GIT, Unix
+
+Agile Methodologies: Scrum, Kanban, XP, TDD
+
+CERTIFICATIONS
+
+AWS Certified Solutions Architect
+
+Certified Kubernetes Application Developer (CKAD)
+
+Certified Kubernetes Administrator (CKA)
+
+Certified Terraform Associate
+
+TIBCO BW5 / Mulesoft 4 Certified Professional
+
+PROFESSIONAL EXPERIENCE
+
+Senior SRE (Cloud/DevOps)
+Singtel, Singapore | Apr 2023 – Present
+
+Architected and automated AWS EKS production clusters and application deployments using AWS CDK (Go), Terraform, and shell scripting, improving deployment speed by 40%.
+
+Implemented CI/CD pipelines, reducing manual deployment errors and increasing release frequency.
+
+Optimized infrastructure monitoring and alerting with Grafana and custom tools, reducing incident response time by 30%.
+
+Led SRE initiatives to enhance system reliability, high availability, and cost efficiency.
+
+Senior Consultant
+ThoughtWorks, Hyderabad | Apr 2022 – Mar 2023
+
+Delivered infra and data mesh solutions using AWS, Terraform, Python, Collibra, and Starburst.
+
+Developed self-service data product registration APIs, automating data product onboarding and improving team productivity by 25%.
+
+Mentored development squads on cloud-native best practices, Kubernetes, and infrastructure automation.
+
+Senior Associate
+JPMorgan Chase & Co, Hyderabad | Dec 2020 – Apr 2022
+
+Designed and developed microservices and API management solutions for GTI, leveraging Spring Boot, Kong, and APIGEE.
+
+Automated deployment pipelines and infrastructure provisioning in AWS, reducing time-to-market for new features.
+
+Enhanced system observability and incident response by integrating monitoring tools and alerting mechanisms.
+
+Senior Development Engineer
+DBS Asia Hub 2, Hyderabad | May 2017 – Dec 2020
+
+Built and deployed cloud-native applications on AWS EKS, implementing CI/CD and self-service pipelines for RDS Proxy and ServiceNow integrations.
+
+Migrated legacy TIBCO applications to Java Spring Boot microservices, improving scalability and maintainability.
+
+Supported production incidents, providing permanent corrective actions and reducing recurring issues by 20%.
+
+Consultant
+HCL Technologies, Hyderabad | Sep 2015 – May 2017
+
+Led integration services development and production support for logistics clients, using TIBCO BW, Oracle, and SOAP/REST APIs.
+
+Streamlined monitoring and reduced production incidents through proactive automation.
+
+Software Engineer
+TESCO, Bangalore | Apr 2014 – Jun 2015
+
+Developed and supported marketplace partner onboarding using SOAP and EMS-based services.
+
+Implemented exception and logging frameworks, enhancing system reliability.
+
+Systems Engineer
+Tata Consultancy Services, Chennai | Mar 2012 – Apr 2014
+
+Migrated TIBCO services for Nielsen client, ensuring seamless transition and improved performance.
+
+Developed automation scripts for file transfer, reducing manual intervention.
+
+EDUCATION
+
+B.Tech, Computer Science, Godavari Institute of Engineering and Technology, 2008 – 2011
+
+Diploma, Computer Science, Andhra Polytechnic, 2005 – 2008
+
+PROJECT HIGHLIGHTS
+
+AWS EKS Automation: Designed and implemented end-to-end automation for EKS cluster lifecycle management and application deployments, leveraging AWS CDK, Terraform, and shell scripting.
+
+Data Mesh Platform: Built self-service APIs for data product registration and automated integration with Collibra and Starburst, reducing onboarding time by 50%.
+
+API Management Modernization: Migrated legacy TIBCO services to microservices architecture using Java Spring Boot and modern API gateways (Kong, APIGEE).
+
+Monitoring & Observability: Enhanced monitoring, alerting, and log aggregation, resulting in a 30% reduction in mean time to detect (MTTD) and resolve (MTTR) incidents.
+
+AWARDS & RECOGNITION
+
+OnTheSpot Award for cost reduction (TCS)
+
+Star of the Month for service excellence (TCS)
+
+Excellence Award for outstanding contribution (HCL)
+
+Certificate of Excellence for Test Automation Tool (DBS)
+
+ADDITIONAL INFORMATION
+
+Indian Passport (Valid till 2032)
+
+Address: Serangoon, Singapore
